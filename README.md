@@ -1,16 +1,15 @@
-### Hi there 👋
+# 이력서
 
-<!--
-**RealLie/RealLie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 소개
+![프로필이미지](https://github.com/RealLie/RealLie/blob/main/20220811181854_00027.jpg)
+- 이름: 유근영
+- 학과: 스마트IoT
+- 학년: 3학년
+- 취미: 헬스, 게임 
+- Email: skm99086@naver.com
+- GitHub: [github.com/RealLie](https://github.com/RealLie)
 
-Here are some ideas to get you started:
+```
+백엔드 개발자가 되기위해 노력중 입니다.
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
