@@ -10,6 +10,6 @@
 - GitHub: [github.com/RealLie](https://github.com/RealLie)
 
 ```
-백엔드 개발자가 되기위해 노력중 입니다.
+개발자가 되기위해 노력중 입니다.
 ```
 
