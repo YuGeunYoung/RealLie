@@ -5,7 +5,7 @@
 - 이름: 유근영
 - 학과: 스마트IoT
 - 학년: 3학년
-- 취미: 헬스, 게임 
+- 취미: 운동, 간단한 코딩
 - Email: skm99086@naver.com
 - GitHub: [github.com/RealLie](https://github.com/RealLie)
 
